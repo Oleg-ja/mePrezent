@@ -1,0 +1,36 @@
+.akk{
+    color:azure;
+    width: 300px; 
+    height: 300px;
+    position: relative;
+    top: 300px; 
+    left: 800px;
+}
+input{
+    width: 290px; 
+    height: 35px; 
+    border-radius: 5px; 
+    border-color: black;
+}
+button{
+    width: 100px; 
+    height: 25px;
+    
+}
+b2{
+    position: relative;
+    top: 10px;
+}
+b2{
+    position: relative;
+    top: 20px;
+}
+b3{ 
+    position: relative;
+    top: 30px;
+}
+h1{
+    position: relative;
+    left: 25px;
+    color:black;
+}
