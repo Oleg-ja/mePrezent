@@ -1,0 +1,53 @@
+b{
+    position:absolute;
+    right:10px;
+    
+}
+b1{
+    color:blue;
+    font-family: Arial Black;
+   font-size: 35px;
+}
+header{
+    background-color: lightgray;
+    height: 50px;
+}
+div{
+    margin-top: 10px;
+    width: 450px;
+    height: 280px;
+    background-color: lightyellow;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+}
+.center{
+    margin: auto;
+}
+.a{
+    font-size: 25px;
+    width: 300px;
+    height: 40px;
+    top: 5px;
+
+}
+.b{
+    position: absolute;
+    top:12px;
+    width: 200px;
+    height: 35px;
+    font-size: 25px;
+}
+.c{
+    position: absolute;
+    top:12px;
+    left: 209px;
+    width: 100px;
+    height: 35px;
+    font-size: 25px;
+}
+.d{
+    position: absolute;
+    top:5px;
+    left: 315px;
+}
