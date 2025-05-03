@@ -1,0 +1,17 @@
+.world{
+    width: 97vw;
+    height: 97vh;
+}
+.cent{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 750px;
+    top: 250px; 
+    border-color: black;
+}
+.clok{
+    width: 110px;
+    height: 25px;
+    font-size: 35px;
+}
